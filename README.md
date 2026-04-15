@@ -25,7 +25,7 @@
 Pairwise MSR (%) of all evaluated OLLMs under three bi-modal conflict settings. 
 </p>
 <div  align="center">    
-    <img src="./assets/1.2.jpg" width=60%/>
+    <img src="./assets/1.2.png" width=60%/>
 </div>
 
 
