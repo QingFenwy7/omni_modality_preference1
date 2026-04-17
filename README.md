@@ -25,10 +25,9 @@ eval/run_tri-modal.py
 ```
 📍 **probe**:
 ```
-probe/train.py 
-probe/.py
-probe/train.py
-probe/train.py
+probe/train.py   # Train linear probes
+probe/acc.py     # Calculate accuracy
+probe/pred.py    # Predict preference probabilities
 ```
 
 
