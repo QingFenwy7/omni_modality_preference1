@@ -8,7 +8,6 @@
 
 
 ## 🎯 What this paper does
-
 * **Proposing a modality preference evaluation framework for OLLMs:** Constructing a tri-modal semantic conflict dataset with quantitative metrics to systematically measure model modality preferences.
 * **Revealing the modality preference landscape of OLLMs:** Under tri-modal conflicts, most OLLMs exhibit significant visual preference; under bi-modal conflicts, all models favor the visual modality; across all input combinations, the audio modality is systematically neglected.
 * **Revealing the internal evolution patterns of modality preference:** Employing layer-wise linear probing to reveal that modality preference signals are absent in shallow layers and gradually emerge in mid-to-late layers.
